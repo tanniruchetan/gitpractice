@@ -12,3 +12,4 @@ git push --delete "branch name"  -- used to delete the branch in remore repo fir
 git branch --delete "branch name"  -- used to delete the branch locally if the branch is completely merged
 git branch -D "branch name" -- used to delete the branch when the branch is not completely merged. i.e, force delete.
 
+---------- the above comma nds are of till 26-05-2025
