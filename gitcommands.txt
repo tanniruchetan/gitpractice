@@ -1,0 +1,6 @@
+git status -- to check the status
+git add "file name"  -- to add the file to staging area
+git commit -m "any message"  -- to commit the file from staging area to local with a message
+git remote add origin -- to add the repo address
+git push --set-upstream "repo name" "branch name" -- to push the file to remote repo from local repo
+
