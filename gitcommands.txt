@@ -1,0 +1,9 @@
+git switch "branch name" -- used to switch in to other branch 
+git branch -a -- used to see which are the linkd branches 
+git merge "branch name" "branch name"
+git pull -- used to pull the changed data in to local repo
+git fetch -- used to fetch the changed data 
+git push --delete "branch name"  -- used to delete the branch in remore repo first
+git branch --delete "branch name"  -- used to delete the branch locally if the branch is completely merged
+git branch -D "branch name" -- used to delete the branch when the branch is not completely merged. i.e, force delete.
+
